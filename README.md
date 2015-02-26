@@ -1,2 +1,2 @@
-# 229-p2-pardise-donuts
+# 229-p2-paradise-donuts
 Project for fart 229
